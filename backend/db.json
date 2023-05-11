@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 1.5
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro +",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Xiaomi note 10 ",
+      "price": "1500.00",
+      "id": 4
+    },
+    {
+      "name": "Fogao Civic",
+      "price": "1600.00",
+      "id": 5
+    },
+    {
+      "name": "Samsung A3 ",
+      "price": "879.00",
+      "id": 6
+    }
+  ]
+}
